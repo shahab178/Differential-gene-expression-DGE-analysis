@@ -1,11 +1,11 @@
 # Differential gene expression DGE analysis
 
-##OBS:
+## #OBS:
 
 1. /.../ should be change to your convinient path in each system.
 2. Pre processing and Data Quality pipeline can be found at [NGS](https://github.com/shahab178/NGS_illumina).
 
-##Differential Expression Analysis:
+## Differential Expression Analysis:
 
 For differential expression analysis, several software packages and pipelines as well as
 numerous Bioinformatics programs for RNA Seq data analysis using different algorithms and
@@ -14,7 +14,7 @@ analysis protocols (i.e., pipelines) by choosing and concatenating programs that
 best fit for each specific goal and situation. We have been using DESeq2 for the count based 
 statistics assuming a negative binomial distribution model.
 
-##Exploratory Analysis and Quality Control
+## Exploratory Analysis and Quality Control
 
 Generally, visualization of RNA seq data is similar to any other type of genomic
 sequencing data, which can be done at the level of reads, total counts, normalized or unnormalized,
