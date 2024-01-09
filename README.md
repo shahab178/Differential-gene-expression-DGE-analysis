@@ -37,4 +37,8 @@ of technical variance or real biological variations due to the complex multi ste
 ## PCA
 ![2024-01-09_15-44](https://github.com/shahab178/Differential-gene-expression-analysis/assets/28104442/55e0ef1d-cc9d-4287-937e-2ab252923b4e)
 
+
+## Volcano plot with EnhancedVolcano package
+![volcano](https://github.com/shahab178/Differential-gene-expression-analysis/assets/28104442/4466c0b0-2a62-4419-9455-8cffb7f9aee7)
+
   
