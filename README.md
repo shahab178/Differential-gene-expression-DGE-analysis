@@ -33,3 +33,8 @@ original data (gene expression values) to define a new set of unrelated variable
 RNA sequencing with high throughput is a potent method for analyzing gene expression.
 Extreme deviation of a sample from samples of the same treatment group may occur as a result
 of technical variance or real biological variations due to the complex multi step methods in data collecting.
+
+##PCA
+  ![2024-01-09_15-44](https://github.com/shahab178/Differential-gene-expression-analysis/assets/28104442/55e0ef1d-cc9d-4287-937e-2ab252923b4e)
+
+  
