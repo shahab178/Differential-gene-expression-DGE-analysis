@@ -1,4 +1,4 @@
-# Differential-gene-expression-DGE-analysis
+# Differential gene expression DGE analysis
 Here, 
 ##OBS:
 
