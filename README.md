@@ -13,6 +13,7 @@ models have been developed. The diversity of the methodology makes it possible t
 analysis protocols (i.e., pipelines) by choosing and concatenating programs that provide the
 best fit for each specific goal and situation. We have been using DESeq2 for the count based 
 statistics assuming a negative binomial distribution model.
+[kallisto_tximport_Deseq2.R](https://github.com/shahab178/Differential-gene-expression-analysis/blob/main/kallisto_tximport_Deseq2.R)
 
 ## Exploratory Analysis and Quality Control
 
