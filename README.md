@@ -3,7 +3,7 @@ Here,
 ##OBS:
 
 1. /.../ should be change to your convinient path in each system.
-2. Pre processing and Data Quality pipeline can be found at ([link](https://github.com/shahab178/NGS_illumina)).
+2. Pre processing and Data Quality pipeline can be found at [NGS](https://github.com/shahab178/NGS_illumina).
 
 ##Differential Expression Analysis:
 
