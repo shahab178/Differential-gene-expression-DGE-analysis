@@ -16,7 +16,11 @@ statistics assuming a negative binomial distribution model.
 [kallisto_tximport_Deseq2.R](https://github.com/shahab178/Differential-gene-expression-analysis/blob/main/kallisto_tximport_Deseq2.R)
 
 ## Exploratory Analysis and Quality Control
-
+- PCA
+- Volcano plot with EnhancedVolcano package
+- ComplexHeatmap
+- ClusterProfiler package for Gene Ontology (GO)
+- ifshrinkage test (for Log2FC normalization)
 Generally, visualization of RNA seq data is similar to any other type of genomic
 sequencing data, which can be done at the level of reads, total counts, normalized or unnormalized,
 cluster visualization, principal component analysis (PCA), and heatmaps.
