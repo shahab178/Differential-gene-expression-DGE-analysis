@@ -25,6 +25,6 @@ It can provide us a sense of the most obvious patterns in the data and assist
 us in identifying quality issues, sample 2520 swaps, and contamination. For this
 reduction of the dimension of the data set, PCA used the linear combination of the
 original data (gene expression values) to define a new set of unrelated variables (principal components).
-RNA sequencing with high throughput is a potent method for 2523 analyzing gene expression.
+RNA sequencing with high throughput is a potent method for analyzing gene expression.
 Extreme deviation of a sample from samples of the same treatment group may occur as a result
-of technical variance or real biological variations due to the complex 2525 multi step methods in data collecting.
+of technical variance or real biological variations due to the complex multi step methods in data collecting.
