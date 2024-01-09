@@ -22,7 +22,7 @@ sequencing data, which can be done at the level of reads, total counts, normaliz
 cluster visualization, principal component analysis (PCA), and heatmaps.
 Exploratory analysis is essential for data understanding and quality control.
 It can provide us a sense of the most obvious patterns in the data and assist
-us in identifying quality issues, sample 2520 swaps, and contamination. For this
+us in identifying quality issues, sample swaps, and contamination. For this
 reduction of the dimension of the data set, PCA used the linear combination of the
 original data (gene expression values) to define a new set of unrelated variables (principal components).
 RNA sequencing with high throughput is a potent method for analyzing gene expression.
